@@ -26,5 +26,9 @@ public class OrgTest {
 	public void editOrgTest() {
 		System.out.println("execute modify organization test");
 	}
+	@Test
+	public void editOr2Test() {
+		System.out.println("execute modify organization test");
+	}
 
 }
